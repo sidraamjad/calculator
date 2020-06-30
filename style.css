@@ -1,0 +1,73 @@
+body{
+    overflow: hidden;
+}
+.main{
+    margin: 0 auto;
+    border: 2px solid black;
+    width: 250px;
+    border-radius: 5px;
+    padding: 13px 6px 10px 10px;
+    background-color:#0288D1;
+
+}
+.iput{
+    width: 94%;
+    padding: 10px 5px;
+    font-size: x-large;
+    border-radius: 5px;
+    background-color:#01579B;
+    color: white;
+    
+}
+.btnc{
+    width: 185px;
+    padding: ;
+    margin-top: 10px;
+    height: 40px;
+    font-size: x-large;
+    border-radius: 5px;
+    background-color:black;
+    color: white; 
+}
+.btnd{
+    width: 59px;
+    padding:;
+    margin-top: 10px;
+    height: 40px;
+    font-size: x-large;
+    border-radius: 5px;
+    background-color:black;
+    color: white; 
+}
+.btn{
+    width: 59px;
+    padding: ;
+    margin-top: 10px;
+    height: 40px;
+    font-size: x-large;
+    border-radius: 5px;
+     background-color:black;
+    color: white; 
+}
+.btn0{
+    width: 122px;
+    padding: ;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    height: 40px;
+    font-size: x-large;
+    border-radius: 5px;
+    background-color:black;
+    color: white; 
+}
+.btne{
+    width: 59px;
+    padding: ;
+    margin-top: 10px;
+    height: 40px;
+    font-size: x-large;
+    border-radius: 5px;
+    background-color:#ef6c00;
+    color: white; 
+}
+
